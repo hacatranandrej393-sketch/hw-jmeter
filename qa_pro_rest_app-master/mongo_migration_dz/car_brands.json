@@ -1,0 +1,7 @@
+[
+  { "_id": "b1", "brandName": "BMW" },
+  { "_id": "b2", "brandName": "Audi" },
+  { "_id": "b3", "brandName": "Ford" },
+  { "_id": "b4", "brandName": "Toyota" },
+  { "_id": "b5", "brandName": "Mercedes" }
+]

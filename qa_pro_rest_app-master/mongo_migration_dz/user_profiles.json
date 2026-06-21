@@ -1,0 +1,7 @@
+[
+  { "_id": "p1", "userId": "u1", "country": "Ukraine", "photoFilename": "avatar1.png", "dateOfBirth": "2007-03-15" },
+  { "_id": "p2", "userId": "u2", "country": "Ukraine", "photoFilename": "avatar2.png", "dateOfBirth": "1995-08-22" },
+  { "_id": "p3", "userId": "u3", "country": "Poland", "photoFilename": "avatar3.png", "dateOfBirth": "1990-11-05" },
+  { "_id": "p4", "userId": "u4", "country": "Germany", "photoFilename": "avatar4.png", "dateOfBirth": "1988-02-10" },
+  { "_id": "p5", "userId": "u5", "country": "Ukraine", "photoFilename": "avatar5.png", "dateOfBirth": "2000-12-30" }
+]

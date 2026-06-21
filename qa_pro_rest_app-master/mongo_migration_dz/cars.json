@@ -1,0 +1,7 @@
+[
+  { "_id": "c1", "userId": "u1", "modelId": "m1", "milage": 120500, "productionYear": 2018 },
+  { "_id": "c2", "userId": "u2", "modelId": "m2", "milage": 85000, "productionYear": 2020 },
+  { "_id": "c3", "userId": "u3", "modelId": "m3", "milage": 45000, "productionYear": 2021 },
+  { "_id": "c4", "userId": "u4", "modelId": "m4", "milage": 210000, "productionYear": 2015 },
+  { "_id": "c5", "userId": "u5", "modelId": "m5", "milage": 60000, "productionYear": 2019 }
+]

@@ -1,0 +1,7 @@
+[
+  { "_id": "m1", "brandId": "b1", "modelName": "X5" },
+  { "_id": "m2", "brandId": "b2", "modelName": "A6" },
+  { "_id": "m3", "brandId": "b3", "modelName": "Mustang" },
+  { "_id": "m4", "brandId": "b4", "modelName": "Camry" },
+  { "_id": "m5", "brandId": "b5", "modelName": "E-Class" }
+]
